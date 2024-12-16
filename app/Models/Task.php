@@ -13,6 +13,7 @@ class Task extends Model
         'description',
         'long_description',
         'completed',
+          
 
 ];
 public function toggle_complete(){
